@@ -1,4 +1,4 @@
-AIN: Determine the potential customers for bank personal loans using ML models like Logistic regression, SVM, KNN, Naive Bayes. 
+AIM: Determine the potential customers for bank personal loans using ML models like Logistic regression, SVM, KNN, Naive Bayes. 
 
 Jupyter NB:Bank_personal_loan_modelling_solution
 Dataset: Bank_Personal_Loan_Modelling.csv
